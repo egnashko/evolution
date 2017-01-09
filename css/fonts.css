@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "Franklin Book";
+    src: url("../fonts/frabk.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Helvetica Roman";
+    src: url("../fonts/HelveticaNeueCyr-Roman.otf") format("opentype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Gotham Regular";
+    src: url("../fonts/gothic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Gotham Bold";
+    src: url("../fonts/gothicb.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Cuprum Regular";
+    src: url("../fonts/Cuprum-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Cuprum Bold";
+    src: url("../fonts/Cuprum-Bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}

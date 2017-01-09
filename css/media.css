@@ -1,0 +1,462 @@
+@media (max-width: 1550px) {
+    .the_main .plane {
+        left: 10%;
+    }
+    .we_offer #owl-demo {
+        width: 1000px;
+    }
+}
+
+@media (max-width: 1300px) and (min-width: 1200px) {
+    .container {
+        width: 1070px;
+    }
+}
+
+@media (max-width: 1199px) {
+    .container {
+        width: 870px;
+    }
+    .the_main .main_container {
+        height: 651px;
+        width: 650px;
+    }
+    .the_main .main_container .slogan {
+        padding-top: 20px;
+        line-height: 40px;
+        padding-left: 224px;
+    }
+    .the_main .main_container .slogan p:first-child {
+        font-size: 44px;
+    }
+    .the_main .main_container .slogan p:nth-child(2) {
+        font-size: 34px;
+    }
+    .the_main .main_container .slogan p:last-child {
+        font-size: 30px;
+    }
+    .the_main .plane {
+        left: 4%;
+        top: 400px;
+    }
+    .the_main .cup {
+        top: 300px;
+        left: 50%;
+    }
+    .we_offer .marketing_programs, .we_offer .direct_mail, .we_offer .photo_design, .we_offer .advertising_stands {
+        width: 560px;
+    }
+    .we_offer #owl-demo {
+        width: 800px;
+    }
+    .clients .the_clients .info {
+        width: 65%;
+    }
+    .projects .main_block .design, .projects .main_block .photo {
+        padding-left: 230px;
+    }
+}
+
+@media (max-width: 991px) {
+    .projects .row {
+        padding-left: 0;
+    }
+    .clients .the_clients .info {
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .clients .the_clients .recomend {
+        margin: 10px auto;
+        display: block;
+        position: relative;
+    }
+    .clients .the_clients .recomend p {
+        position: absolute;
+        left: calc(50% - 99px);
+    }
+    .news_inner {
+        padding-right: 0;
+        padding: 0 15px;
+    }
+    .container {
+        width: unset;
+    }
+    .we_offer #owl-demo {
+        width: 500px;
+    }
+    .the_main .main_container {
+        height: 501px;
+        width: 500px;
+    }
+    .the_main .main_container .slogan p:first-child {
+        font-size: 36px;
+    }
+    .the_main .main_container .slogan p:nth-child(2) {
+        font-size: 28px;
+    }
+    .the_main .main_container .slogan p:last-child {
+        font-size: 26px;
+    }
+    .the_main .main_container .slogan {
+        padding-top: 10px;
+        line-height: 30px;
+        padding-left: 150px;
+    }
+    .the_main .plane {
+        left: 0;
+        top: 485px;
+    }
+    .the_main .cup {
+        left: 35%;
+    }
+    .we_offer .marketing_programs, .we_offer .direct_mail, .we_offer .photo_design, .we_offer .advertising_stands {
+        width: 460px;
+    }
+    .we_offer .marketing_programs .the_programm .pen {
+        left: -35px;
+        width: 150px;
+        height: 250px;
+    }
+    .we_offer .direct_mail .the_mail .plane {
+        right: 65px;
+        width: 210px;
+        height: 215px;
+    }
+    .we_offer .photo_design .the_disign .camera {
+        top: unset;
+        left: -95px;
+        bottom: -115px;
+        width: 200px;
+        height: 263px;
+    }
+    .we_offer .advertising_stands .the_stands .book {
+        left: 195px;
+        width: 275px;
+        height: 250px;
+        top: unset;
+        bottom: -100px;
+    }
+    .we_offer .our_partners .headline {
+        text-align: center;
+        padding-left: 0;
+    }
+    .we_offer .our_partners .owl-next {
+        right: 0;
+        left: unset;
+    }
+    .we_offer .our_partners .owl-prev {
+        left: 0;
+    }
+    /*nav*/
+    .nav_hidden {
+        width: 0;
+    }
+    nav .languages {
+        padding-top: 40px;
+    }
+    nav .button .the_button {
+        position: fixed;
+        top: 0;
+        right: 0;
+        margin: 25px;
+        background: #3b3c40;
+    }
+    nav .items ul {
+        margin-top: 40px;
+    }
+    nav .items ul li {
+        margin-bottom: 30px;
+    }
+    nav .socials {
+        margin-top: 40px;
+    }
+
+    footer, .clients, header, .news, .we_offer, .contacts, .projects {
+        padding-right: 0;
+    }
+    .the_main {
+        padding-right: 0;
+        overflow: hidden;
+        height: 850px;
+    }
+    .clients {
+        padding: 0 15px;
+    }
+    .clients .the_clients .recomend {
+        width: 250px;
+    }
+    .contacts .cont_inf {
+        text-align: center;
+    }
+    .contacts .cont_inf p i {
+        left: calc(50% - 50px);
+    }
+    .contacts .requisites button {
+        display: block;
+        margin: 30px auto;
+    }
+    .projects .main_block .camera {
+        width: 230px;
+        height: 290px;
+        left: -20px;
+        bottom: -70px;
+    }
+    .projects .main_block .mouse {
+        top: -20px;
+        right: -20px;
+        width: 152px;
+        height: 168px;
+    }
+}
+
+@media (max-width: 767px) {
+    .projects .main_block .canvas_block {
+        width: 289px;
+        left: -20px;
+        height: 300px;
+    }
+    .projects .main_block .design, .projects .main_block .photo {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .projects .main_block .design a, .projects .main_block .photo a {
+        display: block;
+        width: 170px;
+        text-align: center;
+        margin: auto;
+    }
+    .projects .main_block .camera {
+        width: 110px;
+        height: 150px;
+    }
+    .projects .main_block .design p i, .projects .main_block .photo p i {
+        left: 0;
+    }
+    .projects .main_block .mouse {
+        width: 100px;
+        height: 112px;
+    }
+    .contacts .map iframe {
+        height: 200px;
+    }
+    .contacts .question .send_it input {
+        width: 230px;
+    }
+    .pagination a {
+        width: 30px;
+        height: 30px;
+        padding-top: 5px;
+    }
+    .news_inner .the_news .news_image {
+
+    }
+    .news_inner .the_news .socials .the_socials {
+        position: relative;
+        text-align: center;
+    }
+    .news_inner .the_news .news_headline h5 {
+        width: 100%;
+        font-size: 24px;
+    }
+    .news_inner .the_news .news_image {
+        height: 300px;
+    }
+    footer span:last-child {
+        margin-left: 0;
+    }
+    footer span {
+        display: block;
+        padding: 10px 0;
+    }
+    header .headline .head_back p {
+        padding-top: 210px;
+        text-align: center;
+         padding-left: 0;
+    }
+    header .headline .head_back {
+        height: 270px;
+    }
+    .we_offer .low_cont {
+        margin-top: 170px;
+    }
+    .we_offer .our_partners {
+        padding-top: 30px;
+    }
+    .we_offer .our_partners .headline {
+        margin-bottom: 150px;
+    }
+    .we_offer .our_partners .owl-prev, .we_offer .our_partners .owl-next {
+        top: -130px;
+    }
+    .we_offer #owl-demo {
+        width: 275px;
+    }
+    .we_offer .marketing_programs .the_programm .pen {
+        width: 70px;
+        height: 117px;
+        left: unset;
+        top: unset;
+        bottom: -50px;
+        right: -25px;
+        z-index: 8;
+    }
+    .we_offer .direct_mail .the_mail .plane {
+        width: 114px;
+        height: 117px;
+        top:unset;
+        bottom: -40px;
+        left: -20px;
+    }
+    .we_offer .photo_design .the_disign .camera {
+        height: 117px;
+        width: 89px;
+        right: -30px;
+        left: unset;
+        bottom: unset;
+        top: -70px;
+        z-index: 8;
+    }
+    .we_offer .advertising_stands .the_stands .book {
+        height: 117px;
+        width: 129px;
+        left: -10px;
+        top: -75px;
+        z-index: 8;
+    }
+    .the_main .main_container {
+        height: 281px;
+        width: 280px;
+    }
+    .the_main .main_container .logo {
+        padding-top: 40px;
+        padding-left: 15px;
+    }
+    .the_main .main_container .slogan {
+        padding-left: 0;
+        text-align: center;
+        line-height: 40px;
+    }
+    .the_main .main_container .slogan p {
+        color: black;
+    }
+    .the_main .glasses {
+        top: -100px;
+        left: -150px;
+    }
+    .the_main .iphone {
+        display: none;
+    }
+    .the_main .cup {
+        top: 0;
+        left: unset;
+        right: 0px;
+    }
+    .the_main .keyboard {
+        left: -150px;
+        top: 250px;
+    }
+    .the_main .plane {
+        left: unset;
+        right: -100px;
+        top: 280px;
+        z-index: 4;
+        display: none;
+    }
+    .we_offer > p {
+        font-size: 24px;
+        padding: 30px 0;
+    }
+    .we_offer .marketing_programs a, .we_offer .direct_mail a, .we_offer .photo_design a, .we_offer .advertising_stands a {
+        position: absolute;
+        z-index: 8;
+    }
+    .we_offer .marketing_programs, .we_offer .direct_mail, .we_offer .photo_design, .we_offer .advertising_stands {
+        width: 280px;
+        padding: 0 10px;
+        height: 200px;
+    }
+    .we_offer .marketing_programs .the_programm, .we_offer .direct_mail .the_mail, .we_offer .photo_design .the_disign,
+    .we_offer .advertising_stands .the_stands {
+        width: 242px;
+        height: 160px;
+        position: relative;
+        margin: auto;
+        top: calc(50% - 80px);
+    }
+    .we_offer .marketing_programs .the_programm:before, .we_offer .direct_mail .the_mail:before, .we_offer .photo_design .the_disign:before,
+    .we_offer .advertising_stands .the_stands:before {
+        width: 225px;
+        height: 160px;
+    }
+    .we_offer .marketing_programs .the_programm:after {
+        width: 28px;
+        height: 92px;
+    }
+    .we_offer .direct_mail .the_mail:after {
+        height: 92px;
+        width: 60px;
+    }
+    .we_offer .photo_design .the_disign:after {
+        height: 92px;
+        width: 59px;
+    }
+    .we_offer .advertising_stands .the_stands:after {
+        height: 92px;
+        width: 64px;
+    }
+    .we_offer .marketing_programs .the_programm p {
+        padding-top: 45px;
+        padding-left: 59px;
+        font-size: 26px;
+    }
+    .we_offer .marketing_programs .the_programm p span {
+        font-size: 22px;
+    }
+    .we_offer .direct_mail .the_mail p {
+        font-size: 22px;
+        padding-top: 50px;
+        padding-left: 70px;
+    }
+    .we_offer .direct_mail .the_mail p span {
+        font-size: 26px;
+    }
+    .we_offer .photo_design .the_disign p {
+        font-size: 26px;
+        padding-top: 47px;
+        padding-left: 89px;
+    }
+    .we_offer .photo_design .the_disign p span {
+        font-size: 22px;
+    }
+    .we_offer .advertising_stands .the_stands p {
+        font-size: 22px;
+        padding-top: 51px;
+        padding-left: 44px;
+    }
+    .we_offer .advertising_stands .the_stands p span {
+        font-size: 26px;
+    }
+    .we_offer .marketing_programs .the_programm .fog, .we_offer .direct_mail .the_mail .fog, .we_offer .photo_design .the_disign .fog,
+    .we_offer .advertising_stands .the_stands .fog {
+        height: 160px;
+        width: 160px;
+    }
+    .we_offer .marketing_programs .the_programm .fog, .we_offer .photo_design .the_disign .fog {
+        left: 60px;
+    }
+    .we_offer .direct_mail .the_mail .fog, .we_offer .advertising_stands .the_stands .fog {
+        left: 30px;
+    }
+}
+
+@media (max-width: 600px) {
+    .client {
+        width: 50%;
+    }
+}
+@media (max-width: 450px) {
+    .client {
+        width: 100%;
+    }
+}
